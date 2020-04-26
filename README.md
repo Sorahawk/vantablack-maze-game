@@ -21,7 +21,8 @@ To run Vantablack:
 
 1. Clone or download the repository
 
-**Note: Windows Command Prompt is unable to display the Unicode characters correctly. Please use Python IDLE as specified to ensure the best experience.**
+**Note: Windows Command Prompt may be unable to display the Unicode characters correctly.  
+Please use Python IDLE as specified to ensure the best experience.**
 
 2. Run the game in Python IDLE:  
 
@@ -93,4 +94,4 @@ In the case that you choose to run, this maze terror will chase you down for 3 t
 
 ## Video Demonstration
 
-[](https://)
+https://youtu.be/HW5udC-EPLI
