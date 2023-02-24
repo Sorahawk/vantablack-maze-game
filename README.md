@@ -1,7 +1,6 @@
 # Vantablack
 
-![GitHub repo size shield](https://img.shields.io/github/repo-size/Sorahawk/vantablack-maze-game)
-![GitHub contributors shield](https://img.shields.io/github/contributors/Sorahawk/vantablack-maze-game)
+![Game Logo](https://github.com/Sorahawk/vantablack-maze-game/blob/master/vantablack_logo.jpg)
 
 Vantablack is a short maze runner game, made with Python, set in a pitch black maze where you can only see one step ahead.
 
