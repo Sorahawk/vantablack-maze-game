@@ -1,10 +1,10 @@
 # Vantablack
 
-![Game Logo](https://github.com/Sorahawk/vantablack-maze-game/blob/master/vantablack_logo.jpg)
+![Vantablack Logo](https://github.com/Sorahawk/vantablack-maze-game/blob/master/vantablack_logo.jpg)
 
-Vantablack is a short maze runner game, made with Python, set in a pitch black maze where you can only see one step ahead.
+Vantablack is a short maze runner game, made with Python, set in a pitch black maze where you can only see one step ahead. Unicode characters (UTF-8 encoded) are used to display the game board in a command line environment (like Python IDLE).
 
-Unicode characters (UTF-8 encoded) are used to display the game board in a command line environment (like Python IDLE).
+Website: https://sorahawk.itch.io/vantablack
 
 
 ## Prerequisites
